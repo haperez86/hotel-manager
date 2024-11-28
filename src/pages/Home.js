@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import HotelList from '../components/HotelList';
-import HotelForm from '../components/HotelForm';
 import { Link } from 'react-router-dom';
 
 function Home() {
